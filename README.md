@@ -85,4 +85,5 @@ gem install pretest
 
 
 O código usado foi baseado em ruby, cucumber e capybara. O teste simula o procedimento de busca e compra do produto camisa Palmeiras.
+
 Arthur Salustiano - Projeto Teste de QA Jr - Smarkio
